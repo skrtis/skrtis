@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skrtis
+- 👋 Hi, I’m @skrtis, I shoot arrows. 
 
 <!---
 skrtis/skrtis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
