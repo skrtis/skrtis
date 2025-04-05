@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skrtis  <br>
+- 👋 Hi!  <br>
 isci @ mac <br>
 Seer (bioinformatics/computational biology web app)<br>
 Research Project Math Components... 
