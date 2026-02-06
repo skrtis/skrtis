@@ -1,6 +1,114 @@
+<div align="center">
 
-isci @ mac <br>
-<!---
-skrtis/skrtis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm Kurtis 👋
+
+[![Twitter](https://img.shields.io/badge/@kurtisngg-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kurtisngg)
+[![GitHub](https://img.shields.io/badge/skrtis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/skrtis)
+[![Location](https://img.shields.io/badge/Toronto,_Canada-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+**Student · Computational Scientist · Builder**
+
+*I build things at the intersection of **math**, **biology**, and **machine learning**.*
+
+</div>
+
+---
+
+### 🧬 What I Work On
+
+I'm drawn to problems where computation meets the real world — pharmacokinetics modeling, hydrological forecasting, epidemiological simulation, protein structure prediction, and renewable energy optimization. Most of my work lives in Python and involves dynamical systems, neural networks, or Monte Carlo methods.
+
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🦠 [BTNet](https://github.com/skrtis/BTNet)
+Agent-based model simulating **Bivalve Transmissible Neoplasia** spread across clam populations in Malpeque Bay, PEI. Couples a 2D incompressible fluid dynamics solver (Semi-Lagrangian advection on a MAC grid) with S→L→I→D compartment epidemiology across 23 clam populations.
+
+`Python` `NumPy` `Matplotlib` `Agent-Based Modeling` `CFD`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌊 [Kloiya River LSTM](https://github.com/skrtis/Kloiya-River-LSTM)
+LSTM neural network for predicting daily river flow rates using **58 years** of hydrological data (~20,000+ observations). Multi-layer architecture with 28-day sliding windows, flow duration curves, and hydropower optimization analysis.
+
+`PyTorch` `Pandas` `scikit-learn` `Time Series` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💊 [Pharmacokinetics Analysis](https://github.com/skrtis/Bioavailability-and-Pharmacokinetics-Analysis)
+Discrete-time dynamical systems approach to modeling pharmacokinetics across IV, intranasal, and smoked routes of administration. Includes elimination kinetics, steady-state equilibrium under repeated dosing, and AUC bioavailability computations.
+
+`Python` `NumPy` `Pandas` `Matplotlib` `DTDS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 [BoltzIO](https://github.com/skrtis/boltzio)
+Python client & toolkit for **NVIDIA Boltz-2** protein structure prediction API. YAML-based config for protein-ligand complex modeling, multi-diffusion sample extraction, affinity prediction, and residue renumbering post-processing.
+
+`Python` `Structural Biology` `API Client` `mmCIF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ☀️ [Energy Modeling](https://github.com/skrtis/Energy-Modeling)
+Monte Carlo simulation for modeling **dust accumulation** effects on solar panel energy output. Stochastic approach to renewable energy efficiency analysis.
+
+`Python` `Monte Carlo` `Simulation` `Energy`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧬 [Seer](https://github.com/skrtis/Seer)
+Bioinformatics web application featuring genome analysis algorithms from Rosalind, with file format conversion between Plain Text, FASTA, and EMBL sequences.
+
+`HTML` `Bioinformatics` `Genomics` `Web App`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=skrtis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrtis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=Jupyter%20Notebook" width="40%" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Building computational tools for science, one simulation at a time.</sub>
+</div>
