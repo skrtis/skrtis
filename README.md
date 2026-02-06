@@ -6,9 +6,9 @@
 [![GitHub](https://img.shields.io/badge/skrtis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/skrtis)
 [![Location](https://img.shields.io/badge/Toronto,_Canada-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-**Student · Computational Scientist · Builder**
+**Student · Aspiring AI DD**
 
-*I build things at the intersection of **math**, **biology**, and **machine learning**.*
+*I like to build things at the intersection of **math**, **biology**, and **machine learning**.*
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 🧬 What I Work On
 
-I'm drawn to problems where computation meets the real world — pharmacokinetics modeling, hydrological forecasting, epidemiological simulation, protein structure prediction, and renewable energy optimization. Most of my work lives in Python and involves dynamical systems, neural networks, or Monte Carlo methods.
+I'm drawn to problems where computation meets the real world — right now looking at future projects on pharmacogenetics and protein-ligand complex elucidation.
 
 ---
 
@@ -94,21 +94,4 @@ Bioinformatics web application featuring genome analysis algorithms from Rosalin
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skrtis&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrtis&theme=tokyonight" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-<sub>⚡ Building computational tools for science, one simulation at a time.</sub>
 </div>
