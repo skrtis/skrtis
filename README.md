@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/skrtis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/skrtis)
 [![Location](https://img.shields.io/badge/Toronto,_Canada-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-**Student · Aspiring AI DD**
+**Student · Aspiring AI DD Scientist · Archer**
 
 *I like to build things at the intersection of **math**, **biology**, and **machine learning**.*
 
