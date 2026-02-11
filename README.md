@@ -16,7 +16,8 @@
 
 ### 🧬 What I Work On
 
-I'm drawn to problems where computation meets the real world — right now looking at future projects on pharmacogenetics and protein-ligand complex elucidation.
+I'm drawn to problems where computation meets the real world.</br>
+Coming up: pharmacogenomics and protein-ligand complex elucidation.
 
 ---
 
